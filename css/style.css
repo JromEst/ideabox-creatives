@@ -131,7 +131,7 @@ header nav li .nav-active {
 }
 
 header nav li a:active,
-header nav li a: visited,
+header nav li a:visited,
 header nav li a:link
 {
     border: none;
